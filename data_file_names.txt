@@ -1,0 +1,12 @@
+
+'bao_fs_boss_dr12'
+'COMBINEDDR12_final_consensus_dM_Hz/final_consensus_results_dM_Hz_fsig.txt    #bao_fs_boss_dr12
+
+
+ 'eBOSS_DR14_Lya_auto'
+eBOSS_DR14_Lya_auto.file                = 'eBOSS_DR16_scans/eBOSS_DR16_scan_aux.txt'
+eBOSS_DR14_Lya_auto.cf_scan             = 'eBOSS_DR16_scans/eBOSS_DR16_Lya_auto_scan.dat'
+
+'eBOSS_DR14_Lya_cross'
+eBOSS_DR14_Lya_cross.file                = 'eBOSS_DR16_scans/eBOSS_DR16_scan_aux.txt'
+eBOSS_DR14_Lya_cross.xcf_scan            = 'eBOSS_DR16_scans/eBOSS_DR16_Lya_cross_scan.dat'
